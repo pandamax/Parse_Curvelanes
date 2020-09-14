@@ -1,5 +1,4 @@
 '''
-The shell shoul run on linux
 解析curvaLanes数据集
 数据集格式：
 train/valid
