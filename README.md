@@ -13,7 +13,7 @@ CurveLanes
            |----labels
            |----valid.json
 ```
-# parse_vil100
+# parse_CurveLanes
 for parsing and converting dataset CurveLanes.
 
 - parse_curvelanes.py：generate segmentation mask.
