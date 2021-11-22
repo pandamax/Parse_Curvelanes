@@ -21,7 +21,7 @@ for parsing and converting dataset CurveLanes.
 - curvelanes2tusimples.py: convert datasets to tusimple format.
 - vis_converted.py: visualize converted tusimple-like format.
 
-the scripts above have tested on wsl/linux.
+the scripts above have been tested on wsl/linux.
 
 # reference
 [CurveLanes](https://github.com/SoulmateB/CurveLanes)
