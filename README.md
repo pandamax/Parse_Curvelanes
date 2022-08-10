@@ -7,11 +7,11 @@ CurveLanes
     |----train
            |----images
            |----labels
-           |----train.json                            
+           |----train.txt                            
     |----valid
            |----images
            |----labels
-           |----valid.json
+           |----valid.txt
 ```
 # parse_CurveLanes
 for parsing and converting dataset CurveLanes.
